@@ -7,4 +7,5 @@ for x in Carevi:
   print(x)  
   if x == "Djole":
      break
-    
+else:
+  print('Ilija is my best friend')
